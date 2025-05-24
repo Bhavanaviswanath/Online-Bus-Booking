@@ -47,16 +47,17 @@ The *Online Bus Booking System* is a backend-focused application designed to man
 
 ---
 
-## sample outputs
-![image](https://github.com/GudepuRakshitha/Online-Bus-Booking-System-/blob/e0d02b57abd8e905102281a6e9c16adba2c859aa/bus1.png)
+## Sample Outputs
+![Bus 1](https://raw.githubusercontent.com/Bhavanaviswanath/Online-Bus-Booking-System/6ce6e7875bf3e8d23d2d69f3d85538eff8f26e41/bus1.png)
 
-![image](https://github.com/GudepuRakshitha/Online-Bus-Booking-System-/blob/e0d02b57abd8e905102281a6e9c16adba2c859aa/bus2.png)
+![Bus 2](https://raw.githubusercontent.com/Bhavanaviswanath/Online-Bus-Booking-System/6ce6e7875bf3e8d23d2d69f3d85538eff8f26e41/bus2.png)
 
-![image](https://github.com/GudepuRakshitha/Online-Bus-Booking-System-/blob/e0d02b57abd8e905102281a6e9c16adba2c859aa/bus3.png)
+![Bus 3](https://raw.githubusercontent.com/Bhavanaviswanath/Online-Bus-Booking-System/6ce6e7875bf3e8d23d2d69f3d85538eff8f26e41/bus3.png)
 
-![image](https://github.com/GudepuRakshitha/Online-Bus-Booking-System-/blob/e0d02b57abd8e905102281a6e9c16adba2c859aa/bus4.png)
+![Bus 4](https://raw.githubusercontent.com/Bhavanaviswanath/Online-Bus-Booking-System/6ce6e7875bf3e8d23d2d69f3d85538eff8f26e41/bus4.png)
 
-![image](https://github.com/GudepuRakshitha/Online-Bus-Booking-System-/blob/e0d02b57abd8e905102281a6e9c16adba2c859aa/bus5.png)
+![Bus 5](https://raw.githubusercontent.com/Bhavanaviswanath/Online-Bus-Booking-System/6ce6e7875bf3e8d23d2d69f3d85538eff8f26e41/bus5.png)
+
 
 ## 🚀 Setup Instructions
 
